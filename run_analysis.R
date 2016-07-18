@@ -1,4 +1,4 @@
-setwd("C:/RAM/DSP/R/Getting-and-Cleaning-Data-Course-Project")
+# setwd("C:/RAM/DSP/R/Getting-and-Cleaning-Data-Course-Project")
 
  # Download the file and put the file in the data folder
  if(!file.exists("./data")){dir.create("./data")}
