@@ -19,7 +19,7 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-## 1. Downloand and Merge the training and the test sets to create one data set.
+### 1. Downloand and Merge the training and the test sets to create one data set.
 After setting the source directory for the files, read into tables the data located in
 - features.txt
 - activity_labels.txt
@@ -32,10 +32,10 @@ After setting the source directory for the files, read into tables the data loca
 
 Assign column names and merge to create one data set.
 
-## 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+### 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 
-## 3. Use descriptive activity names to name the activities in the data sett
+### 3. Use descriptive activity names to name the activities in the data sett
 
-## 4. Appropriately label the data set with descriptive activity names.
+### 4. Appropriately label the data set with descriptive activity names.
 
-## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
